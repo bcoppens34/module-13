@@ -5,6 +5,12 @@ E-Commerce Back End
 
 The Module 13 Challenge objective was to build the back end for an e-commerce site using an Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
+## Installation
+-npm i
+-node seeds/index.js
+-npm start
+
+
 ## Screenshot
 ![image](https://github.com/bcoppens34/module-13/assets/138166854/bc2b52e1-5e31-458b-995b-e6fd0d27e9c7)
 
