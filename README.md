@@ -12,6 +12,8 @@ The Module 13 Challenge objective was to build the back end for an e-commerce si
 
 -npm start
 
+-open insomnia or postman for testing
+
 
 ## Screenshot
 ![image](https://github.com/bcoppens34/module-13/assets/138166854/bc2b52e1-5e31-458b-995b-e6fd0d27e9c7)
