@@ -7,7 +7,9 @@ The Module 13 Challenge objective was to build the back end for an e-commerce si
 
 ## Installation
 -npm i
+
 -node seeds/index.js
+
 -npm start
 
 
